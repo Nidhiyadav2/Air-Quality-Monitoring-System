@@ -1,1 +1,4 @@
 # Air-Quality-Monitoring-System
+
+Air pollution has become a common phenomenon everywhere. Nowadays air pollution is a real-life problem and specially in the urban areas. Only because of air pollution a lot of people get sick. The main causes of air pollution is increased number of petrol and diesel vehicles in the urban areas and the presence of industrial areas at the outskirts of the major cities are. In the metropolitan cities this problem is seriously intensified. All around the world the governments are taking every measure in their capacity. Also, the impact of daily emissions of gaseous and particulate pollutants of machines and industries on human health and the environment has attracted increasing concerns.
+Therefore, for a safer future air quality monitoring and creating public awareness are important.
